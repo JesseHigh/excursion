@@ -1,2 +1,0 @@
-# excursion
-Github training repo
